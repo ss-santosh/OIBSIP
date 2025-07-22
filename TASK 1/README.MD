@@ -1,6 +1,6 @@
 🔍 Nmap Basic Network Scan Report
 
-🎯 Target: [Insert Target IP Here]
+🎯 Target: 45.33.32.156
 
 ✅ Objective:
 To identify open ports and analyze services on a host using Nmap.
